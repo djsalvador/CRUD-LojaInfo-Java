@@ -25,5 +25,5 @@ O sistema deverá permitir a inserção, atualização, remoção e a leitura do
     5. Produto(codigo)
     6. Quantidade
     
-    ![image](https://user-images.githubusercontent.com/42014618/189200536-df69b0e1-8213-4142-92a6-c8ff8cebaaa3.png)
+  ![image](https://user-images.githubusercontent.com/42014618/189203348-ff9b76e1-2b22-4d06-809a-44262fdd062a.png)
 
