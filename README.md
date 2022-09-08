@@ -28,6 +28,7 @@ O sistema deverá permitir a inserção, atualização, remoção e a leitura do
   ![image](https://user-images.githubusercontent.com/42014618/189203348-ff9b76e1-2b22-4d06-809a-44262fdd062a.png)
 
 CÓDIGOS DE CRIAÇÃO DO BANCO DE DADOS:
+
 create database loja_info;
 
 create table clientes(
